@@ -108,7 +108,7 @@ https://docs.gxchain.org/zh/advanced/block_operation_object.html  《区块和�
 
 
 
-可以在磁珠找到智能合约的介绍
+可以在此处找到智能合约的介绍
 
 https://docs.gxchain.org/zh/contract/
 
