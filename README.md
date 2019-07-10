@@ -92,7 +92,7 @@ class cardgame : public contract {
 
 
 
-最后，我们需要在一个名为GRAPHENE_ABI的红中注册我们的合约，我们需要传递合约类名，以及GRAPHENE_ABI宏可以的action列表。但是，由于我们还没有任何动作，现在让我们传递空序列（由BOOST_PP_SEQ_NIL宏表示）
+最后，我们需要在一个名为GRAPHENE_ABI的宏中注册我们的合约，我们需要传递合约类名，以及GRAPHENE_ABI宏可用的action列表。但是，由于我们还没有任何动作，现在让我们传递空序列（由BOOST_PP_SEQ_NIL宏表示）
 
 cardgame.cpp内容如下
 
